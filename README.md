@@ -7,7 +7,7 @@ Only one file is needed for the library to work - the library itself, no additio
 1. Download the library at https://github.com/Plisio/php-lib
 2. Include the library in places where you plan to use it. 
 ```php
-require_once __DIR__ . '/PlisioCLient.php'
+require_once __DIR__ . '/PlisioClient.php'
 ```
 ### Using the Plisio library
 As an example of creating an invoice - the bot uses a user-selected item. When the user clicks on the callback button "Proceed to payment"
